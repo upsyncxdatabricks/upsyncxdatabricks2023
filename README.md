@@ -1,4 +1,4 @@
-# upsyncxdatabricks2023
+# UpSync x Databricks Collaboration 2023
 
 This is a repo containing work done with the collaboration of Databricks SA team lead by Colin Risler and UpSync Consulting. The project goal was to create a demo to show a state government customer how Databricks can leverage financial historicals to create finanacial historical for an upcoming budget year.
 
